@@ -1,1 +1,1 @@
-sudo apt install hfsprogs
+sudo apt install bluez-tools
